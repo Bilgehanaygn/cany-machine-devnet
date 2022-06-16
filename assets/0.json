@@ -1,0 +1,46 @@
+{
+  "name": "Degen Monke Builder #0",
+  "symbol": "DMB",
+  "description": "Monke Monke Monke",
+  "seller_fee_basis_points": 1000,
+  "image": "0.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "greenblue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "blondie"
+    },
+    {
+      "trait_type": "Body",
+      "value": "motogp"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "gladiatorhair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightsaberblue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GU9MLzrLcL1LdSE38uQUUHFjsHnSmnwsGKfytunYnpqX",
+        "share": 100
+      }
+    ]
+  }
+}

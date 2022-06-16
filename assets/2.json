@@ -1,0 +1,46 @@
+{
+  "name": "Degen Monke Builder #2",
+  "symbol": "DMB",
+  "description": "Monke Monke Monke",
+  "seller_fee_basis_points": 1000,
+  "image": "2.png",
+  "external_url": "",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "blondie"
+    },
+    {
+      "trait_type": "Body",
+      "value": "spy_coat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "gladiatorhair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightsaberblue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GU9MLzrLcL1LdSE38uQUUHFjsHnSmnwsGKfytunYnpqX",
+        "share": 100
+      }
+    ]
+  }
+}
